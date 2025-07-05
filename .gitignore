@@ -1,6 +1,6 @@
-# Data files (too large for GitHub)
-*.csv
-lending_club_loan_two.csv
+# Data files (removed to allow pushing to GitHub)
+# *.csv
+# lending_club_loan_two.csv
 
 # Python cache files
 __pycache__/

@@ -171,20 +171,5 @@ The project includes comprehensive visualizations:
 - **Model Performance**: ROC curves, precision-recall curves
 - **Feature Importance**: Top predictive features
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📧 Contact
-
-**Ruthwik Chikoti**
-- GitHub: [@ruthwikchikoti](https://github.com/ruthwikchikoti)
-- Project Link: [LendingClub Loan Prediction](https://github.com/ruthwikchikoti/LendingClub_Loan_Prediction)
 
 ---
-
-*This project demonstrates end-to-end machine learning workflow for financial risk assessment, showcasing data science techniques from EDA to model deployment.*
